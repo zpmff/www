@@ -1,0 +1,44 @@
+[ 2017-07-20T22:13:50+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left.html
+ERR: 1054:Unknown column 'mg_id2' in 'where clause'
+ [ SQL语句 ] : select * from sw_manager where mg_id2
+
+[ 2017-07-20T22:59:10+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:00:19+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:00:21+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:00:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:20+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:22+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:23+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-20T23:01:44+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+

@@ -1,0 +1,51 @@
+[ 2017-07-15T20:39:45+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_name=
+
+[ 2017-07-15T20:40:59+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_name=
+
+[ 2017-07-15T20:42:11+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select * from sw_manager where mg_name=admin
+
+[ 2017-07-15T20:44:01+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select * from sw_manager where mg_name = admin
+
+[ 2017-07-15T20:51:47+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select * from sw_manager where mg_name = admin 
+
+[ 2017-07-15T21:00:46+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T21:01:08+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[mg_username]' at line 1
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = $_POST[mg_username]
+
+[ 2017-07-15T21:06:25+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T21:08:45+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T21:11:39+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T21:17:24+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T21:25:36+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : select  *  from sw_manager where  mg_name = admin
+
+[ 2017-07-15T23:39:51+08:00 ] 127.0.0.1 /shop/index.php/Admin/Manager/__ACTION__.html
+ERR: 非法操作:__ACTION__
+

@@ -1,0 +1,8 @@
+[ 2017-07-21T21:13:50+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_manager where mg_id = 
+
+[ 2017-07-21T22:24:34+08:00 ] 127.0.0.1 /shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'auth_id in (1,2,5,6,7,8,9)' at line 1
+ [ SQL语句 ] : select * from sw_auth where  auth_level = 1and auth_id in (1,2,5,6,7,8,9) 
+

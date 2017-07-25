@@ -1,0 +1,12 @@
+[ 2017-07-23T23:10:46+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from sw_manager as a join sw_role as b  on a.mg_role_id = b.role_id where a.mg_id =  
+
+[ 2017-07-23T23:23:18+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from sw_manager as a join sw_role as b  on a.mg_role_id = b.role_id where a.mg_id =  
+
+[ 2017-07-23T23:32:06+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from sw_manager as a join sw_role as b  on a.mg_role_id = b.role_id where a.mg_id =  
+

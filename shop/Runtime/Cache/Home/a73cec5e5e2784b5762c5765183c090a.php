@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><img src='../../../Public/Img/111.jpg ' alt='' /> 404欢迎你
